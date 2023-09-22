@@ -1,5 +1,4 @@
 👋 Hi, I’m ُ Eslaam.\
-👋 Web Developer
 
 
 <h3 align="left">Let's Connect:</h3>
