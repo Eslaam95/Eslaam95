@@ -11,7 +11,6 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eslaam95&show_icons=true&locale=en&layout=compact" alt="eslaam95" /></p>
 
 <h3 align="left">Let's Connect:</h3>
 <p align="left">
