@@ -2,6 +2,9 @@
  
  <img style='display:block' align='left' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Eslaam95&layout=compact'/>
 
+  <img style='display:block' align='left' src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E'/>
+
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 <!---
