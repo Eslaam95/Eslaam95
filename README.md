@@ -1,5 +1,5 @@
  👋 Hi, I’m @Eslaam95
-<div style='display:block' width='50%'> <img width:'100%' align='left' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Eslaam95&layout=compact'/>
+<div style='display:block' width='100%'> <img width:'50%' align='left' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Eslaam95&layout=compact'/>
 </div>
 
 <img align='left' style="clear:left; margin-top:5px" src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white'/>
