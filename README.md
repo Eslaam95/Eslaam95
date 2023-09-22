@@ -1,9 +1,7 @@
  👋 Hi, I’m @Eslaam95
  
  <img width='47%' align='left' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Eslaam95&layout=compact'/>
- <div width='47%' align='left' ></div>
-
-<div width='100%'>
+ 👋 Hi, I’m @Eslaam95
  <img align='left'  src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white'/>
 <img align='left' src='https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white'/>
 <img align='left' src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E'/>
@@ -14,7 +12,7 @@
 <img align='left' src='https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white'/>
 <img align='left' src='https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white'/>
 <img  src='https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white'/>
-</div>
+
 
 
 
