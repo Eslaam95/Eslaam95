@@ -1,7 +1,7 @@
  👋 Hi, I’m @Eslaam95
  
  <img width='47%' align='left' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Eslaam95&layout=compact'/>
- <div width='47%' align='left' />
+ <div width='47%' align='left' ></div>
 
 
 <img align='left'  src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white'/>
