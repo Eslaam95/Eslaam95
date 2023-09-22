@@ -1,4 +1,4 @@
-👋 Hi, I’m ُ Eslaam.\
+👋 Hi, I’m ُ Eslaam.
 
 
 <h3 align="left">Let's Connect:</h3>
